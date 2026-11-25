@@ -118,8 +118,8 @@ Skin, hair follicles and oil glands all carry estrogen receptors. As estrogen fa
 - **Skin becomes drier.** Oil production falls and the outer barrier holds water less well. Dryness and itch are among the most common complaints.
 - **Skin can become more reactive.** Products that were tolerated for years may start to sting.
 - **Hair changes.** Scalp hair often becomes finer and less dense, while a few coarse hairs may appear on the chin or upper lip, because estrogen falls further than androgens do.
-- **Breakouts, flushing and uneven colour** can appear or return. See Part 6.
-- **Vulvar and vaginal tissue becomes thinner and drier.** See Part 4.
+- **Breakouts, flushing and uneven colour** can appear or return.
+- **Vulvar and vaginal tissue becomes thinner and drier.**
 
 ### Two kinds of ageing
 
@@ -160,7 +160,7 @@ Skin ages for two reasons at once. Intrinsic ageing is the result of time, genes
 
 A simple routine used every day does more than a complicated one used now and then: gentle cleansing, a moisturiser, and sun protection. Everything else is optional. Any spot that is new, changing or not healing, and any rash, itch or hair loss that persists, should be examined by a clinician instead of being treated with products.
 
-## Part 10: Safety and referral
+## Safety and referral
 
 Give this advice first, before any other content, when a user mentions any of the following.
 
