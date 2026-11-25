@@ -1,0 +1,18 @@
+{
+  "name": "menopause-skincare-starter",
+  "displayName": "Menopause Skincare Guide: Free Starter",
+  "version": "1.0.0",
+  "description": "An interactive introduction to skin care in perimenopause, menopause and postmenopause: what menopause does to skin, hair and nails, what skin care can and cannot do, why the market is so confusing, how to judge the evidence behind a claim, and when to see a doctor or dermatologist. Evidence-based and informed by the personal experience of its creators, who are not medical or skin care professionals. Educational information only, not medical advice.",
+  "author": {
+    "name": "Kev-Dani"
+  },
+  "repository": "https://github.com/Kev-Dani/menopause-skincare-starter",
+  "supportUrl": "https://github.com/Kev-Dani/menopause-skincare-starter/issues",
+  "keywords": [
+    "menopause",
+    "perimenopause",
+    "skincare",
+    "skin care",
+    "women's health"
+  ]
+}
